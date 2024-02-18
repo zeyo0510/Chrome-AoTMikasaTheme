@@ -1,0 +1,36 @@
+﻿{
+  "manifest_version": 2,
+  "name": "Mikasa Theme",
+  "description": "Theme for Attack on Titan",
+  "version": "2024.02.18",
+  "theme":
+  {
+    "colors":
+    {
+      "bookmark_text": [255, 255, 255],
+      "frame": [51, 51, 51],
+      "ntp_background": [255, 255, 255],
+      "ntp_link": [255, 255, 255],
+      "ntp_link_underline": [255, 255, 255],
+      "ntp_text": [255, 255, 255],
+      "tab_background_text": [0, 0, 0],
+      "tab_text": [255, 255, 255],
+      "toolbar": [113, 7, 7, 0.6]
+    },
+    "images":
+    {
+      "theme_frame": "images/theme_frame.png",
+      "theme_ntp_background": "images/theme_ntp_background.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_toolbar": "images/theme_toolbar.png"
+    },
+    "properties":
+    {
+      "ntp_background_repeat": "no-repeat"
+    },
+    "tints":
+    {
+      "buttons": [0, 0.5, 1]
+    }
+  }
+}
